@@ -4,7 +4,7 @@ Nombre del proyecto :
 Sistema Bauhaus Dinámico
 
 Autor:
-NicolJay
+Amanda Doñas
 
 El proyecto consiste en un sistema visual generativo e interactivo realizado en p5.js inspirado en los principios geométricos y repetitivos de la Bauhaus. En pantalla se observa una grilla de círculos geométricos inspirados en un afiche Bauhaus, donde las figuras giran constantemente y reaccionan a la interacción del usuario. La composición utiliza colores planos, formas simples y una estructura modular repetitiva característica de esta corriente de diseño. El sistema recibe inputs continuos mediante el movimiento del mouse en los ejes X e Y y mediante el click del usuario. Estos inputs modifican diferentes variables visuales como la velocidad de rotación, el color y el tamaño de las figuras. Como resultado, el programa genera outputs visuales dinámicos y variables, creando una composición en constante cambio a través de reglas, repeticiones y pequeñas variaciones aleatorias.
 
@@ -32,7 +32,7 @@ El sistema funciona a partir de reglas programadas que transforman los inputs de
 
 
 <img width="600" height="600" alt="fposter,small,wall_texture,square_product,600x600" src="https://github.com/user-attachments/assets/68ccebad-8185-498b-b322-38540fd7636b" />
-
+Autor: NicolJay
 
 
 
