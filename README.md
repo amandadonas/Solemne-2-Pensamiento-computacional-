@@ -32,6 +32,7 @@ El sistema funciona a partir de reglas programadas que transforman los inputs de
 
 
 <img width="600" height="600" alt="fposter,small,wall_texture,square_product,600x600" src="https://github.com/user-attachments/assets/68ccebad-8185-498b-b322-38540fd7636b" />
+
 Autor: NicolJay
 
 
@@ -58,6 +59,8 @@ Autor: NicolJay
 
 
 
+
+Proceso de construción de código
 
 <img width="1586" height="996" alt="WhatsApp Image 2026-05-21 at 16 38 17" src="https://github.com/user-attachments/assets/715b5b82-f697-4ac9-9005-67567b46d536" />
 <img width="1600" height="936" alt="WhatsApp Image 2026-05-21 at 16 38 17 (1)" src="https://github.com/user-attachments/assets/0d9ca733-c705-49b7-8cf1-bd955f8a11d0" />
