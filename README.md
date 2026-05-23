@@ -65,3 +65,7 @@ El sistema funciona a partir de reglas programadas que transforman los inputs de
 <img width="1592" height="1002" alt="WhatsApp Image 2026-05-21 at 16 38 18" src="https://github.com/user-attachments/assets/a9889761-e33a-479e-bb6b-2d7aa78919bb" />
 <img width="1596" height="1002" alt="WhatsApp Image 2026-05-21 at 16 38 18 (1)" src="https://github.com/user-attachments/assets/b29cb4c8-8dc0-4631-b2b6-3365f387dee7" />
 <img width="1600" height="995" alt="WhatsApp Image 2026-05-21 at 16 38 18 (2)" src="https://github.com/user-attachments/assets/c325957d-e90c-4ed2-a4c3-87728d9890a0" />
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/f4b1d7a6-b6f7-48e8-8f82-898d91395eb4" />
+
+
